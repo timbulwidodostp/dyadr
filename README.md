@@ -1,6 +1,8 @@
 # dyadr
 Dyadic data analysis Use dyadr With (In) R Software
 
+https://www.youtube.com/watch?v=3MtW5KNtqCs
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
